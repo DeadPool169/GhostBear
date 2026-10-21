@@ -1,0 +1,2 @@
+# GhostBear
+Squad XML
