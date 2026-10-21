@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE squad SYSTEM "squad.dtd">
+<squad nick="GB">
+    <name>Ghost Bear</name>
+    <email></email>
+    <web></web>
+    <picture>logo.paa</picture>
+    <title>Ghost Bear</title>
+
+    <!-- Replace the placeholder UID and nickname before publishing. -->
+    <member id="REPLACE_WITH_STEAM64_ID" nick="REPLACE_WITH_ARMA_PROFILE_NAME">
+        <name>Squad Leader</name>
+        <email></email>
+        <icq></icq>
+        <remark>Squad Leader</remark>
+    </member>
+</squad>
