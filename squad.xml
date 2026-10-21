@@ -2,8 +2,8 @@
 <!DOCTYPE squad SYSTEM "squad.dtd">
 <squad nick="GHOST">
     <name>Ghost Bear</name>
-    <email></email>
-    <web></web>
+    <email>ghost.bear.watch@gmail.com</email>
+    <web>https://discord.gg/opfor</web>
     <picture>logo512.paa</picture>
     <title>Ghost Bear</title>
 
@@ -11,7 +11,7 @@
     <member id="76561198123095687" nick="Tristan™">
         <name>Tristan "Kodiak" Jorgansen</name>
         <email>Kodiak@alshaine.net</email>
-        <icq>Kodiak 1-4</icq>
-        <remark>Psychological Operations Specialist</remark>
+        <icq>Psychological Operations Specialist</icq>
+        <remark>"We are the nightmare between silence and death."</remark>
     </member>
 </squad>
