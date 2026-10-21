@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE squad SYSTEM "squad.dtd">
-<squad nick="GB">
+<squad nick="GHOST">
     <name>Ghost Bear</name>
     <email></email>
     <web></web>
@@ -8,10 +8,10 @@
     <title>Ghost Bear</title>
 
     <!-- Replace the placeholder UID and nickname before publishing. -->
-    <member id="REPLACE_WITH_STEAM64_ID" nick="REPLACE_WITH_ARMA_PROFILE_NAME">
+    <member id="76561198123095687" nick="Tristan™">
         <name>Squad Leader</name>
-        <email></email>
-        <icq></icq>
-        <remark>Squad Leader</remark>
+        <email>Kodiak@alshaine.net</email>
+        <icq>Kodiak 1-4</icq>
+        <remark>Psychological Operations Specialist</remark>
     </member>
 </squad>
