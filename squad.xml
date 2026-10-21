@@ -17,9 +17,16 @@
 
         <!-- Second Member -->
     <member id="76561198022860508" nick="Katastrphy">
-        <name>Katastrphy</name>
-        <email></email>
-        <icq></icq>
-        <remark>Reconnaissance Specialist</remark>
+        <name>Kat "Black Bear" Rosko</name>
+        <email>Katas@alshaine.net</email>
+        <icq>Reconnaissance Specialist</icq>
+        <remark></remark>
+    </member>
+            <!-- Third Member -->
+    <member id="76561199497038448" nick="Highwayman">
+        <name>Rusty "Brown Bear" Jones</name>
+        <email>Rust@alshaine.net</email>
+        <icq>Forward Observere </icq>
+        <remark>"Fear is the weapon. Silence is the warning."</remark>
     </member>
 </squad>
