@@ -14,4 +14,12 @@
         <icq>Psychological Operations Specialist</icq>
         <remark>"We are the nightmare between silence and death."</remark>
     </member>
+
+        <!-- Second Member -->
+    <member id="STEAM64_ID_2" nick="GhostTwo">
+        <name>I</name>
+        <email></email>
+        <icq></icq>
+        <remark>Reconnaissance Specialist</remark>
+    </member>
 </squad>
